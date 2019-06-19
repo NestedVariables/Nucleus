@@ -1,0 +1,7 @@
+main: dev.nestedvar.Spigot.Nucleus.Main
+author: NestedVariables
+authors: [ExZiByte, TechToolbox]
+version: {$project.version}
+name: Nucleus
+description: A plugin
+website: https://nestedvar.dev/projects/spigot/Nucleus
